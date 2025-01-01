@@ -1,0 +1,1 @@
+var json_BalaiDesaAengPanas_7 = {"type":"FeatureCollection","name":"BalaiDesaAengPanas_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Balai":"Balai Desa Aeng Panas"},"geometry":{"type":"Point","coordinates":[113.684832556821149,-7.096111251319621]}}]}

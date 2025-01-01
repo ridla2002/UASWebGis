@@ -1,0 +1,1 @@
+var json_PolindesAengPanas_8 = {"type":"FeatureCollection","name":"PolindesAengPanas_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Polindes":"POLINDES Desa Aeng Panas"},"geometry":{"type":"Point","coordinates":[113.68481121687023,-7.095916246113203]}}]}
